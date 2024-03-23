@@ -9,6 +9,7 @@ void main() {
   print("Nama : ${nama}");
   print("Kalimat 1 : ${kalimat1}");
   print("Kalimat 2 : ${kalimat2}");
+  print("Nilai : ${nilai}");
 
   // menggabungkan variabel
   print(kalimat1 + " " + kalimat2);
